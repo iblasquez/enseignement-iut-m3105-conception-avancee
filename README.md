@@ -8,7 +8,7 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
  
 ### Patterns 
-- [Présentation de quelques Design Patterns (promo 2107)](patterns/patterns_2107.md)
+- [Présentation de quelques Design Patterns (promo 2107)](patterns/patterns_2017.md)
 - [Quelques références autour des Design Patterns](patterns/references_patterns.md)
 
 
