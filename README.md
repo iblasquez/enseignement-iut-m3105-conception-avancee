@@ -1,4 +1,4 @@
-# Conception Orientée Objet
+# Conception et Programmation Objet Avancées
 ---
 Conception et Programmation objet avancées (module M3105) : bonnes pratiques, doublures, principes SOLID, Design Patterns.  
 *Ce module fait suite au [module M2104 : Bases de la Conception Orientée Objet](https://github.com/iblasquez/enseignement-iut-m2104-conception)* 
@@ -8,6 +8,7 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
  
 ### Patterns 
+- [Présentation de quelques Design Patterns (promo 2107)](patterns/patterns_2107.md)
 - [Quelques références autour des Design Patterns](patterns/references_patterns.md)
 
 
