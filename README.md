@@ -1,9 +1,16 @@
 # Conception et Programmation Objet Avancées
 ---
-Conception et Programmation objet avancées (module M3105) : bonnes pratiques, doublures, principes SOLID, Design Patterns.  
-*Ce module fait suite au [module M2104 : Bases de la Conception Orientée Objet](https://github.com/iblasquez/enseignement-iut-m2104-conception)* 
+Conception et Programmation objet avancées (module M3105) : bonnes pratiques, doublures de test, principes SOLID, Design Patterns. 
+ 
+*Ce module fait suite au [module M2104 : Bases de la Conception Orientée Objet (conception classique & émergente, bonnes pratiques, TDD).](https://github.com/iblasquez/enseignement-iut-m2104-conception)* 
 
 ## Supports de cours
+
+- [Doublures de test](slides/TestDouble_Mockito.pdf) 
+
+
+
+
 
 
  
@@ -16,6 +23,16 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
 
 ## Enoncés de TP
+
+
+## Autres
+
+#### Références autour des doublures de test
+
+- [Mock Roles, not Objects](http://www.jmock.org/oopsla2004.pdf) de Steve Freeman, Nat Pryce, Tim Mackinnon, Joe Walnes (OOPSLA 2004)
+- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) sur le blog de Martin Fowler
+- <img src="http://xunitpatterns.com/Cover-Small.gif" alt="xUnit Patterns" width="70"> [xUnit Test Patterns](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054) de Gerard Meszaros(rubrique TestDouble en ligne [ici](http://xunitpatterns.com/Test%20Double.html)) 
+- <img src="http://www.growing-object-oriented-software.com/cover.jpg" alt="GOOS" width="70"> [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com) de Steve Freeman and Nat Pryce 
 
 
 ## Extrait du [PPN Informatique DUT Informatique](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)
