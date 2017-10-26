@@ -29,13 +29,16 @@
 
 - [Gang of Four Design Patterns](http://www.blackwasp.co.uk/GofPatterns.aspx)
 
+- [Design Patterns du Gang of Four appliqués à Java](http://rpouiller.developpez.com/tutoriel/java/design-patterns-gang-of-four) (site developpez.com)
+
 - [Design Patterns in Java Tutorial](https://www.tutorialspoint.com//design_pattern/) (site tuorialspoint)
 
 - [Patron de conception (wikipedia)](https://fr.wikipedia.org/wiki/Patron_de_conception) 
 
 - [GOPROD - GOod PRactices in Object oriented Designs](http://www.goprod.bouhours.net/?lang=fr&) : Un site web pour partager les ***patrons abîmés*** de patrons de conception
 
-- sur Dzone : [GoF Design Patterns Using Java (Part 1)](https://dzone.com/articles/gof-design-patterns-using-java-part-1) (Observer, Factory, Command, Singleton, Decorator, and Factory Patterns)  
+- sur Dzone :   
+[GoF Design Patterns Using Java (Part 1)](https://dzone.com/articles/gof-design-patterns-using-java-part-1) (Observer, Factory, Command, Singleton, Decorator, and Factory Patterns)  
 [GoF Design Patterns Using Java (Part 2)](https://dzone.com/articles/gof-design-patterns-using-java-02) (Adapter, Facade, Template, Iterator, and State patterns)  
 et d'autres articles sur les designs patterns [DZone](https://dzone.com/search)
 
@@ -47,6 +50,16 @@ et d'autres articles sur les designs patterns [DZone](https://dzone.com/search)
 ...   
 [Design Patterns Saga #16: real project situations with Composite](https://nobugsproject.com/2017/09/17/design-patterns-saga-16-real-project-situations-with-composite)  
 [Design Patterns Saga #17: real project situations with Decorator](https://nobugsproject.com/2017/09/24/design-patterns-saga-17-real-project-situations-with-decorator/)
+
+- Des cours sur les desin pattern  
+[un cours](http://www.emse.fr/~picard/cours/2A/DesignPatterns.pdf)  
+[un autre cours](http://pageperso.lif.univ-mrs.fr/~petru.valicov/Cours/M3105/DP_x4.pdf)  
+...
+
+## Patterns du GOF dans Java
+
+[Examples of GoF Design Patterns in Java's core libraries](https://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns-in-javas-core-libraries)
+
 
 ## Aide-mémoire
 [Design Patterns Quick Reference](http://www.mcdonaldland.info/2007/11/28/40/) et sa [carte récapitulative](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)

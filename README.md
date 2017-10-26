@@ -21,9 +21,11 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
 ## Enoncés de TD
 
+*Tous vos TD doivent être versionnés !*
 
 ## Enoncés de TP
 
+*Tous vos TP doivent être versionnés !*
 
 ## Autres
 
@@ -33,6 +35,8 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 - [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html) sur le blog de Martin Fowler
 - <img src="http://xunitpatterns.com/Cover-Small.gif" alt="xUnit Patterns" width="70"> [xUnit Test Patterns](https://www.amazon.com/xUnit-Test-Patterns-Refactoring-Code/dp/0131495054) de Gerard Meszaros(rubrique TestDouble en ligne [ici](http://xunitpatterns.com/Test%20Double.html)) 
 - <img src="http://www.growing-object-oriented-software.com/cover.jpg" alt="GOOS" width="70"> [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com) de Steve Freeman and Nat Pryce 
+
+... mais aussi [***Doublures en Folie***](http://agilitateur.azeau.com/public/doublures-en-folie/doublures-en-folie.v1.html), la saynète imaginée par [Olivier Azeau](https://twitter.com/oaz) (teasing [ici](https://www.youtube.com/watch?v=5gkmE0lfkrs))
 
 
 ## Extrait du [PPN Informatique DUT Informatique](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)

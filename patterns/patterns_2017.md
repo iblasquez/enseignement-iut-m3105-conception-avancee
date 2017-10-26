@@ -1,4 +1,7 @@
-# Présentation de quelques Design Patterns (promo 2107)
+# Présentation de quelques Design Patterns (automne 2107)
+
+***Travaux réalisés par les étudiants de deuxième année du DUT Informatique de l'IUT du Limousin*** 
+
 
 ## Patterns de construction
 
@@ -7,7 +10,7 @@
 - Builder : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
 
-## Patterns structuraux
+## Patterns de structuration
 
 - Adapter : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
@@ -22,7 +25,7 @@
 
 
 
-## Patterns comportementaux
+## Patterns de comportement
 
 - Command : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
