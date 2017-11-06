@@ -27,6 +27,8 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
 ## Enoncés de TP
 
+- TP n°1 : [Prise en main des doublures de test et de Mockito](https://github.com/iblasquez/tuto_mockito)
+
 *Tous vos TP doivent être versionnés !*
 
 ## Autres
