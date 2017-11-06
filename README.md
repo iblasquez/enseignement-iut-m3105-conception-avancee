@@ -21,6 +21,8 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
 ## Enoncés de TD
 
+- TD n° 1 : [Mise en place de bonnes pratiques de développement autour du refactoring du Kata Tennis](TD/M3105_BonnesPratiques_KataTennis.pdf)
+
 *Tous vos TD doivent être versionnés !*
 
 ## Enoncés de TP
