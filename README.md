@@ -7,7 +7,7 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 ## Supports de cours
 
 - [Doublures de test](slides/TestDouble_Mockito.pdf) 
-
+- [Ecrire du code SOLID](slides/SOLID.pdf) 
 
 
 
