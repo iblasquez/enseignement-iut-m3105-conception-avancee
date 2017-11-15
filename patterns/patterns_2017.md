@@ -35,4 +35,4 @@
 
 - Strategy : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
-- Visitor : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
+- Visitor : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](https://tech.io/playgrounds/8339/design-pattern-visitor/introduction)
