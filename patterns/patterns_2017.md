@@ -5,7 +5,7 @@
 
 ## Patterns de construction
 
-- Abstract Factory : [présentation](https://github.com/EliseJoffre/AbstractFactory/blob/master/Abstract_Factory.pdf) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
+- Abstract Factory : [présentation](https://github.com/EliseJoffre/AbstractFactory/blob/master/Abstract_Factory.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/f62a10122a2a86e3a0addaf9777db3610789/presentation_design_pattern_abstract_factory/pattern-abstract-factory)
 
 - Builder : [présentation](mettre_lien_du_pdf) et [tutoriel tech.io](https://tech.io/playgrounds/39ca7d1150a39403aa089ef4757df7d75017/pattern-builder/pattern-builder-2)
 
