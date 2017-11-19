@@ -7,7 +7,7 @@
 
 - Abstract Factory : [présentation](https://github.com/EliseJoffre/AbstractFactory/blob/master/Abstract_Factory.pdf) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
-- Builder : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
+- Builder : [présentation](mettre_lien_du_pdf) et [tutoriel tech.io](https://tech.io/playgrounds/39ca7d1150a39403aa089ef4757df7d75017/pattern-builder/pattern-builder-2)
 
 
 ## Patterns de structuration
