@@ -7,7 +7,7 @@
 
 - Abstract Factory : [présentation](https://github.com/EliseJoffre/AbstractFactory/blob/master/Abstract_Factory.pdf) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
-- Builder : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
+- Builder : [présentation](https://github.com/jubidatiloki/playground-kNAwesXw/blob/master/BUILDER.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/b63d9576f847336efb8ae81ceddc2b915017/pattern-builder/introduction)
 
 
 ## Patterns de structuration
