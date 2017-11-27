@@ -12,7 +12,7 @@
 
 ## Patterns de structuration
 
-- Adapter : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
+- Adapter : [présentation](https://github.com/Aliths/DesignPaternAdapter/blob/master/Design_Pattern_Adapter.pdf) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
 
 - Composite : [présentation](https://github.com/GregWss/Design-Pattern-Composite/blob/master/PatternComposite.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10154/design-pattern-composite/presentation)
