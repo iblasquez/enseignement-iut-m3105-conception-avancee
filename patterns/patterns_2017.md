@@ -27,7 +27,7 @@
 
 ## Patterns de comportement
 
-- Command : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
+- Command : [présentation](https://github.com/leger50/DesignPattern_Command/blob/master/presentation_pattern_command_m3105.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10716/design-pattern-command/presentation)
 
 - Observer : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
 
