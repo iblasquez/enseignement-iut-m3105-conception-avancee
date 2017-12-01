@@ -51,6 +51,10 @@ et d'autres articles sur les designs patterns [DZone](https://dzone.com/search)
 [Design Patterns Saga #16: real project situations with Composite](https://nobugsproject.com/2017/09/17/design-patterns-saga-16-real-project-situations-with-composite)  
 [Design Patterns Saga #17: real project situations with Decorator](https://nobugsproject.com/2017/09/24/design-patterns-saga-17-real-project-situations-with-decorator/)
 
+- sur JournalDev : [rubrique Design Patterns](https://www.journaldev.com/java/design-patterns)
+
+- sur DoFactory : [rubrique Design Patterns](http://www.dofactory.com/net/design-patterns)
+
 - Des cours sur les desin pattern  
 [un cours](http://www.emse.fr/~picard/cours/2A/DesignPatterns.pdf)  
 [un autre cours](http://pageperso.lif.univ-mrs.fr/~petru.valicov/Cours/M3105/DP_x4.pdf)  
