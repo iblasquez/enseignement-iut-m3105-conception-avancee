@@ -21,7 +21,7 @@
 - Decorator : [présentation](https://github.com/marcmlc/DesignPattern-Decorator/blob/master/DiapoDecoratorPDF.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/8396/simple-java-template/presentation)
 
 
-- Flyweight : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](ajoutez_le_lien_vers_le_playgroung_tech_io)
+- Flyweight : [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](https://tech.io/playgrounds/b010ce352e99e397ac49f975a8be4fd073111/simple-java-template/quiz)
 
 
 
