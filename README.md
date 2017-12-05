@@ -15,23 +15,38 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
  
 ### Patterns 
-- [Présentation de quelques Design Patterns (promo 2017)](patterns/patterns_2017.md)
+- [Présentation de quelques Design Patterns (travaux réalisés par les étudiants - Automne 2017)](patterns/patterns_2017.md)
 - [Quelques références autour des Design Patterns](patterns/references_patterns.md)
 
 
 ## Enoncés de TD
 
-- TD n° 1 (Inspiration **[Kata Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)**) :  [Mise en place de bonnes pratiques de développement autour du refactoring du Kata Tennis](TD/M3105_BonnesPratiques_KataTennis.pdf) 
-- TD n° 2 (Inspiration  **[Kata Racing Car](https://github.com/emilybache/Racing-Car-Katas)**) : [Ecrire du code SOLID ](TD/M3105_SOLID_tirePressureMonitoringSystem.pdf) 
-- TD n° 3 (Inspiration  **[Kata Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata)**) : [Kata Parrot (guidé) ](TD/M3105_SOLID_Polymorphism_KataParrot.pdf) 
+- TD n° 1 (inspiration **[Kata Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)**) :  
+[Mise en place de bonnes pratiques de développement autour du refactoring du Kata Tennis](TD/M3105_BonnesPratiques_KataTennis.pdf) 
+
+- TD n° 2 (inspiration  **[Kata Racing Car](https://github.com/emilybache/Racing-Car-Katas)**) :  
+[Ecrire du code SOLID ](TD/M3105_SOLID_tirePressureMonitoringSystem.pdf) 
+
+- TD n° 3 (inspiration  **[Kata Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata)**) :  
+[Kata Parrot (guidé) ](TD/M3105_SOLID_Polymorphism_KataParrot.pdf) 
+
+- TD n° 4 (inspiration  **[Kata Kebab](https://github.com/malk/the-kebab-kata)**) :  
+[Kata Kebab à notre sauce : une première implémentation du problème](TD/M3105_Kebab_Presentation.pdf)   
+[Kata Kebab à notre sauce : décorons les kebabs !](TD/M3105_Kebab_Decorateur.pdf) 
+
 - ... à suivre ...
+
 
 *Tous vos TD doivent être versionnés !*
 
 ## Enoncés de TP
 
-- TP n°1 : [Prise en main des doublures de test et de Mockito](https://github.com/iblasquez/tuto_mockito)
-- TP n°2 (Inspiration  **[Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)**) : [Kata Gilded Rose](TD/M3105_GildedRose.pdf) 
+- TP n°1 :  
+[Prise en main des doublures de test et de Mockito](https://github.com/iblasquez/tuto_mockito)
+
+- TP n°2 (inspiration  **[Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)**) :  
+[Kata Gilded Rose](TD/M3105_GildedRose.pdf) 
+
 -  ... à suivre ...
 
 
