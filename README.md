@@ -32,9 +32,10 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
 - TD n° 4 (inspiration  **[Kata Kebab](https://github.com/malk/the-kebab-kata)**) :  
 [Kata Kebab à notre sauce : une première implémentation du problème](TD/M3105_Kebab_Presentation.pdf)   
-[Kata Kebab à notre sauce : décorons les kebabs !](TD/M3105_Kebab_Decorateur.pdf) 
+[Kata Kebab à notre sauce : décorons les kebabs !](TD/M3105_Kebab_Decorateur.pdf)  
+[Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab_Visiteur.pdf)
 
-- ... à suivre ...
+- ... *module en cours* ...
 
 
 *Tous vos TD doivent être versionnés !*
@@ -47,7 +48,7 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 - TP n°2 (inspiration  **[Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)**) :  
 [Kata Gilded Rose](TD/M3105_GildedRose.pdf) 
 
--  ... à suivre ...
+-  ... *module en cours* ...
 
 
 *Tous vos TP doivent être versionnés !*
