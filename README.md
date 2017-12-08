@@ -45,11 +45,11 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 - TP n°1 :  
 [Prise en main des doublures de test et de Mockito](https://github.com/iblasquez/tuto_mockito)
 
-- TP n°2 (inspiration  **[Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)**) :  
+- TP n°2 (inspiration  **[Kata Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)**) :  
 [Kata Gilded Rose](TD/M3105_GildedRose.pdf) 
 
--  ... *module en cours* ...
-
+- TP n°3 (inspiration  **[Kata Trivia](https://github.com/jbrains/trivia)**) :  
+[Qualité & harnais de tests sur le kata Trivia : SonarQube, Golden Master, Approval Testing](TD/M3105_Trivia.pdf) 
 
 *Tous vos TP doivent être versionnés !*
 
