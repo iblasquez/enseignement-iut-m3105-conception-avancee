@@ -35,6 +35,10 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 [Kata Kebab à notre sauce : décorons les kebabs !](TD/M3105_Kebab_Decorateur.pdf)  
 [Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab_Visiteur.pdf)
 
+- TD n° 5 (inspiration  **[What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)**) :  
+[Une SOLIDe revue de code](TD/M3105_SOLID_Revue.pdf)  
+A lire également : [Code Smells: Too Many Problems](https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems/)
+
 - ... *module en cours* ...
 
 
