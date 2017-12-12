@@ -26,7 +26,7 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
 - TD n° 2 (inspiration  **[Kata Racing Car](https://github.com/emilybache/Racing-Car-Katas)**) :  
 [Ecrire du code SOLID ](TD/M3105_tirePressureMonitoringSystem_SOLID.pdf)  
-[Améliorer la lisibilité des tests (Builder,factory) ](TD/M3105_tirePressureMonitoringSystem_LisibiliteTest)
+[Améliorer la lisibilité des tests (Builder, Factory) ](TD/M3105_tirePressureMonitoringSystem_LisibiliteTest.pdf)
 
 - TD n° 3 (inspiration  **[Kata Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata)**) :  
 [Kata Parrot (guidé) ](TD/M3105_SOLID_Polymorphism_KataParrot.pdf) 
