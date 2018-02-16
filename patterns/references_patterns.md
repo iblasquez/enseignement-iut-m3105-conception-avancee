@@ -1,4 +1,4 @@
-# Quelques références autour des Design Patterns
+# Quelques références autour des Patterns
 
 ## Livres
  <img src="https://images-na.ssl-images-amazon.com/images/I/51szD9HC9pL._SX395_BO1,204,203,200_.jpg" alt="Livre GoF" width="70"> [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.fr/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) de Erich Gamma, Richard Helm, Ralph Johnson et John Vlissides (La référence : livre plus connu sous le nom du **GoF** : **G***ang* **o***f* **F***ourth*)
@@ -8,7 +8,7 @@
 
 <img src="http://static.eyrolles.com/img/2/7/4/4/0/7/0/9/9782744070907_h430.jpg" alt="Livre DP Tête la première" width="70"> [UML 2 et les design patterns](http://www.eyrolles.com/Informatique/Livre/uml-2-et-les-design-patterns-9782744070907) de Craig Larman
 
-## Ressources en ligne
+## Ressources en ligne (Design Patterns)
 
 
 - [Source Making](https://sourcemaking.com/design_patterns) 
@@ -18,6 +18,8 @@
 	-  et reprise de [bons pincipes de programmation](http://java-design-patterns.com/principles/)  
 
 ... le tout hébegé sur le dépot gihtub [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) et [ouvert à toute contribution](https://github.com/iluwatar/java-design-patterns/wiki) :smile: !
+
+- [Building Maintainable and Scalable Software: Learn design patterns quickly with Jason McDonald's outstanding tutorial](https://dzone.com/refcardz/design-patterns)
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
@@ -105,6 +107,8 @@ et d'autres articles sur les designs patterns [DZone](https://dzone.com/search)
 - [Software architecture patterns](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 - [10 Common Software Architectural Patterns in a nutshell](https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+
+- <img src="http://scg.unibe.ch/download/oorp/pictures/oorp.jpg" alt="Livre Object-Oriented Reengineering Patterns" width="70"> [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) de Serge Demeyer, Stéphane Ducasse, Oscar Nierstrasz
 
 
 ***N'hésitez pas à compléter cette liste avec vos références, c'est par [ici](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee/pulls) !***  
