@@ -55,6 +55,8 @@ et d'autres articles sur les designs patterns [DZone](https://dzone.com/search)
 
 - sur JournalDev : [rubrique Design Patterns](https://www.journaldev.com/java/design-patterns)
 
+- sur dev.to : [rubrique Design Patterns](https://dev.to/t/designpatterns)
+
 - sur DoFactory : [rubrique Design Patterns](http://www.dofactory.com/net/design-patterns)
 
 - Des cours sur les desin pattern  
