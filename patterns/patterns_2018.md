@@ -30,7 +30,7 @@
 ## Patterns de comportement (GoF)
 
 
-- Command : [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre...
+- Command : [présentation](https://github.com/QLenoir/Command-Pattern-Git/blob/master/pattern_command.pdf) et/ou [tutoriel tech.io](https://tech.io/playgrounds/36502/design-pattern-command/presentation) et/ou [QCM](https://tech.io/playgrounds/36502/design-pattern-command/le-quizz)
 
 - Observer : [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre...
 
