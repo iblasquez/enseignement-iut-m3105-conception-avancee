@@ -47,7 +47,7 @@
 vs Entity : [présentation](lien_vers_votre_travail) ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre... 
 
 - Null Object pattern : [présentation](https://drive.google.com/open?id=1jIOyLQusm5sIqv9FquGsZ0AzAjSb2JDLVVOEFq8-gXM) et [QCM](https://tech.io/playgrounds/857eda8eb0772f747464f82dd1fe9c8571473/qcm-pattern-null-object)
-et les différentes manières de traiter un null en Java : [présentation](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM](https://tech.io/playgrounds/62f6f5856107bb311c89d67a32667b1681473/qcm-traiter-le-null-en-java)
+et les différentes manières de traiter un null en Java : [présentation](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM](https://tech.io/playgrounds/3b5fb671f19cbd273817023e44e5428681473/qcm-traiter-le-null-en-java)
 
 
 - Architecture hexagonale : [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre... 
