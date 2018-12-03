@@ -36,7 +36,7 @@
 
 - State : [présentation](https://github.com/LaraVidoni/StatePattern/blob/master/statePattern.pdf) et [QCM](https://marvelapp.com/ab005ge)
 
-- Strategy : [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre...
+- Strategy : [présentation](https://github.com/PaterneBaptiste/Pr-sentation-Pattern-Startegy/blob/master/Pr%C3%A9sentation%20Pattern%20Strategy.pdf) et [QCM](https://tech.io/playgrounds/cc15e6fba3afd878558c8ae62b2e88e133473/qcm-pattern-strategy) 
 
 - Visitor : [présentation](https://github.com/DepierreQuentin/Pattern-Vistor/blob/master/Design%20Pattern%20Visitor.pdf) et [QCM](https://tech.io/playgrounds/36080/design-pattern-visitor) et/ou autre...
 
