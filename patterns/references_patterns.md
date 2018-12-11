@@ -17,7 +17,7 @@
 	- avec une [belle liste d'environs 100 patterns détaillés](http://java-design-patterns.com/patterns/)  
 	-  et reprise de [bons pincipes de programmation](http://java-design-patterns.com/principles/)  
 
-... le tout hébegé sur le dépot gihtub [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) et [ouvert à toute contribution](https://github.com/iluwatar/java-design-patterns/wiki) :smile: !
+... le tout hébergé sur le dépot gihtub [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) et [ouvert à toute contribution](https://github.com/iluwatar/java-design-patterns/wiki) :smile: !
 
 - [Building Maintainable and Scalable Software: Learn design patterns quickly with Jason McDonald's outstanding tutorial](https://dzone.com/refcardz/design-patterns)
 
@@ -53,13 +53,13 @@ et d'autres articles sur les designs patterns [DZone](https://dzone.com/search)
 [Design Patterns Saga #16: real project situations with Composite](https://nobugsproject.com/2017/09/17/design-patterns-saga-16-real-project-situations-with-composite)  
 [Design Patterns Saga #17: real project situations with Decorator](https://nobugsproject.com/2017/09/24/design-patterns-saga-17-real-project-situations-with-decorator/)
 
-- sur JournalDev : [rubrique Design Patterns](https://www.journaldev.com/java/design-patterns)
+- sur JournalDev : [rubrique Design Patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial)
 
 - sur dev.to : [rubrique Design Patterns](https://dev.to/t/designpatterns)
 
 - sur DoFactory : [rubrique Design Patterns](http://www.dofactory.com/net/design-patterns)
 
-- Des cours sur les desin pattern  
+- Des cours sur les design pattern  
 [un cours](http://www.emse.fr/~picard/cours/2A/DesignPatterns.pdf)  
 [un autre cours](http://pageperso.lif.univ-mrs.fr/~petru.valicov/Cours/M3105/DP_x4.pdf)  
 ...
