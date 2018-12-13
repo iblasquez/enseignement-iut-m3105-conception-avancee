@@ -12,7 +12,7 @@
 
 ## Patterns de structuration (GoF)
 
-- Adapter : [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre...
+- Adapter : [présentation](https://github.com/lperruchaud/Design_Pattern_Adapter) et/ou [QCM](https://tech.io/playgrounds/f0b0a1a0fe3fdba4f2de4a65e8f1f09684283/java-maven-project)
 
 
 - Composite : [présentation](https://github.com/ThibaultMagy/PatternComposite.git) et/ou [QCM1](http://www.strawpoll.me/16923727), [QCM2](http://www.strawpoll.me/16923749), [QCM3](http://www.strawpoll.me/16923763), [QCM3](http://www.strawpoll.me/16923763)  et/ou autre...
