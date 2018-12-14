@@ -50,7 +50,7 @@ vs Entity : [présentation](lien_vers_votre_travail) ou [tutoriel tech.io](lien_
 et les différentes manières de traiter un null en Java : [présentation](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM](https://tech.io/playgrounds/3b5fb671f19cbd273817023e44e5428681473/qcm-traiter-le-null-en-java)
 
 
-- Architecture hexagonale : [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre... 
+- Architecture hexagonale : [présentation](https://prezi.com/view/1C7GzdWDAP2mdeUn8ddA/ et notre [QCM](https://tech.io/playgrounds/05bc567fc84c1dee9ecf31d056f7356c67283/quizz-architecture-hexagonale).
 
 
 - CQRS et Event Sourcing : [présentation](https://github.com/thiagaradja2/Patter-CQRS-Event-Sourcing/blob/master/CQRS%20%26%20EventSourcing.pdf) et [QCM](https://goo.gl/forms/XhaxCCssPc6q4Kjm1)
