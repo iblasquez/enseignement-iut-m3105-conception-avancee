@@ -56,7 +56,7 @@ et les différentes manières de traiter un null en Java : [présentation](https
 - CQRS et Event Sourcing : [présentation](https://github.com/thiagaradja2/Patter-CQRS-Event-Sourcing/blob/master/CQRS%20%26%20EventSourcing.pdf) et [QCM](https://goo.gl/forms/XhaxCCssPc6q4Kjm1)
 
 
-- pattern MVC et ses amis : [présentation](lien_vers_votre_travail) ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre...   
+- pattern MVC et ses amis : [présentation](https://github.com/leger50/DesignPattern_MVC/blob/master/presentation/PatternMVC.pdf) et [QCM](https://qcm-mvc.netlify.com/)   
 
 
 
