@@ -32,7 +32,7 @@
 
 - Command : [présentation](https://github.com/QLenoir/Command-Pattern-Git/blob/master/pattern_command.pdf) et/ou [tutoriel tech.io](https://tech.io/playgrounds/36502/design-pattern-command/presentation) et/ou [QCM](https://tech.io/playgrounds/36502/design-pattern-command/le-quizz)
 
-- Observer : [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre...
+- Observer : [présentation](https://github.com/Braxwell/Observer_Info_2A_IUT/blob/master/OBSERVER_INFO_2A_IUT.pdf) et [QCM](https://tech.io/playgrounds/38556/qcm---patron-de-conception-observateur)
 
 - State : [présentation](https://github.com/LaraVidoni/StatePattern/blob/master/statePattern.pdf) et [QCM](https://marvelapp.com/ab005ge)
 
