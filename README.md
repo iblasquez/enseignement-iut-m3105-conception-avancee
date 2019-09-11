@@ -15,7 +15,7 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 
  
 ### Patterns 
-- [Présentation de quelques Design Patterns (travaux réalisés par les étudiants - Automne 2017)](patterns/patterns_2017.md)
+- [ Présentations de quelques design patterns et autres notions avancées de conception logicielle (travaux réalisés par les étudiants depuis 2017)](patterns/design_presentations.md)
 - [Quelques références autour des Design Patterns](patterns/references_patterns.md)
 
 
