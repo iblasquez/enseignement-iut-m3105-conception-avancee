@@ -43,7 +43,7 @@
 
 | Decorator			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019         | [présentation](https://github.com/FaresCherif/designPatternDecorator/blob/master/DesignPatternDecoratorDiapo.pdf) et [QCM](https://www.sli.do/) |    
 |Automne 2018 		| [présentation](https://github.com/Minemega19/DesignPaternDecorator) et [QCM1](http://www.strawpoll.me/16827808), [QCM2](http://www.strawpoll.me/16827813), [QCM3](http://www.strawpoll.me/16827815), [QCM4](http://www.strawpoll.me/16827819), [QCM5](http://www.strawpoll.me/16923769) |  
 |Automne 2017		| [présentation](https://github.com/marcmlc/DesignPattern-Decorator/blob/master/DiapoDecoratorPDF.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/8396/simple-java-template/presentation) | 
 
