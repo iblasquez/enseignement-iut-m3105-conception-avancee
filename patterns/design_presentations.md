@@ -36,7 +36,7 @@
 
 | Composite			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019 		| [présentation](https://github.com/Jeanjon/expose/blob/master/Expose_composite.pdf) |    
 |Automne 2018 		| [présentation](https://github.com/ThibaultMagy/PatternComposite) et [QCM1](http://www.strawpoll.me/16923727), [QCM2](http://www.strawpoll.me/16923749), [QCM3](http://www.strawpoll.me/16923763) |    
 |Automne 2017		| [présentation](https://github.com/GregWss/Design-Pattern-Composite/blob/master/PatternComposite.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10154/design-pattern-composite/presentation) | 
 
