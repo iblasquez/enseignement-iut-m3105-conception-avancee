@@ -129,7 +129,7 @@
 
 | Value Object - Entity -  Agrégat	|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2019 				| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019 				| [présentation]https://tech.io/playgrounds/51956/quizz-ddd et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
 |Automne 2018 				| [présentation sur Value Object vs Entity](https://drive.google.com/file/d/1vNGobY0ZHgoeapSe3h2c4ESuE35NJL91/view?usp=sharing) et [QCM](https://tech.io/playgrounds/36536/quiz-value-object-entity) |
 
 
