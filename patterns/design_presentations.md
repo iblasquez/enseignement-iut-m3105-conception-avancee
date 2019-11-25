@@ -129,7 +129,7 @@
 
 | Value Object - Entity -  Agrégat	|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2019 				| [présentation]https://github.com/BenoitGui/DDDPowerPoint/blob/master/DDD.pdf et  [QCM]https://tech.io/playgrounds/51956/quizz-ddd et [code]https://github.com/BenoitGui/DDDPres2 |    
+|Automne 2019 				| [présentation](https://github.com/BenoitGui/DDDPowerPoint/blob/master/DDD.pdf) et  [QCM](https://tech.io/playgrounds/51956/quizz-ddd) et [code](https://github.com/BenoitGui/DDDPres2) |    
 |Automne 2018 				| [présentation sur Value Object vs Entity](https://drive.google.com/file/d/1vNGobY0ZHgoeapSe3h2c4ESuE35NJL91/view?usp=sharing) et [QCM](https://tech.io/playgrounds/36536/quiz-value-object-entity) |
 
 
