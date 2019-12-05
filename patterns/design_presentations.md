@@ -88,7 +88,7 @@
 
 | Strategy			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019 		| [présentation](https://www.swisstransfer.com/d/848af52d-716c-455a-8ec6-dff70cc19c4c?fbclid=IwAR2UXohwji1W2h7_K6GmJpFv6k3mBG4bxLjdw_4IBzU5emlhjVUR_sIYuHk) et/ou [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb) et/ou autre(s) |    
 |Automne 2018 		| [présentation](https://github.com/PaterneBaptiste/Pr-sentation-Pattern-Startegy/blob/master/Pr%C3%A9sentation%20Pattern%20Strategy.pdf) et [QCM](https://tech.io/playgrounds/cc15e6fba3afd878558c8ae62b2e88e133473/qcm-pattern-strategy) |  
 |Automne 2017		| [présentation](https://github.com/Lhudram/DesignPattern_Strategy/blob/master/PRESENTATION_STRATEGY_PATTERN.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10741/design-pattern-strategy/presentation) | 
 
