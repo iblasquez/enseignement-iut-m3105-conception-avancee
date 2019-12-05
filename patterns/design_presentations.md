@@ -135,7 +135,7 @@
 
 | Null pour les nuls		|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2019 				| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019 				| [présentation](https://github.com/MajinEro/NULL-OBJECT/blob/master/NULL%20OBJECT.pdf) et/ou [QCM](https://forms.gle/zKimHRsBbfMdMxDx9) |    
 |Automne 2018 				| [présentation Null Object Pattern](https://drive.google.com/open?id=1jIOyLQusm5sIqv9FquGsZ0AzAjSb2JDLVVOEFq8-gXM) et [QCM ](https://tech.io/playgrounds/857eda8eb0772f747464f82dd1fe9c8571473/qcm-pattern-null-object) - [présentation traiter null en Java](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM 2](https://tech.io/playgrounds/3b5fb671f19cbd273817023e44e5428681473/qcm-traiter-le-null-en-java)
 
 
