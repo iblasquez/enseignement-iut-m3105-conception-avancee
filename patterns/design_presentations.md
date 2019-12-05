@@ -1,9 +1,11 @@
 # Présentations de quelques design patterns et autres notions avancées de conception logicielle 
 
-***Présentations réalisées par les étudiants de deuxième année du DUT Informatique de l'IUT du Limousin dans la cadre du module M3105***
+***Présentations réalisées par les étudiants de deuxième année du DUT Informatique de l'IUT du Limousin dans le cadre du module M3105***  
 
 
-<!-- Consignes aux étudiants : vous devez ajouter vos ressources au niveau de la ligne Automne 2019 -->
+<!-- Consignes aux étudiants : vous devez ajouter vos ressources au niveau de la ligne Automne 2019 
+Attention, le contenu des présentations des années précédentes n'est pas toujours exact ;-)
+-->
  
 
 ## Quelques design patterns du Gof
@@ -67,7 +69,7 @@
 
 | Command			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019		| [présentation]https://github.com/MathisBremont/PatternCommand/blob/master/Diapo%20PATTERN%20COMMAND%20(1).pdf[tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM]https://www.dragnsurvey.com/survey/r/7d84e4f?fbclid=IwAR0fEma_0X3SYhkyWuw23mh7Lvf_y8lIeRWxzYPpVJ_Uq3HxXoQiTAU8EfY |    
+|Automne 2019		| [présentation](https://github.com/MathisBremont/PatternCommand/blob/master/Diapo%20PATTERN%20COMMAND%20(1).pdf) et [QCM](https://www.dragnsurvey.com/survey/r/7d84e4f?fbclid=IwAR0fEma_0X3SYhkyWuw23mh7Lvf_y8lIeRWxzYPpVJ_Uq3HxXoQiTAU8EfY) |    
 |Automne 2018 		|  [présentation](https://github.com/QLenoir/Command-Pattern-Git/blob/master/pattern_command.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/36502/design-pattern-command/presentation) et [QCM](https://tech.io/playgrounds/36502/design-pattern-command/le-quizz) |  
 |Automne 2017		| [présentation](https://github.com/leger50/DesignPattern_Command/blob/master/presentation_pattern_command_m3105.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10716/design-pattern-command/presentation) | 
 
@@ -81,14 +83,13 @@
 
 | State				|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019 		| [présentation](https://www.swisstransfer.com/d/848af52d-716c-455a-8ec6-dff70cc19c4c?fbclid=IwAR2UXohwji1W2h7_K6GmJpFv6k3mBG4bxLjdw_4IBzU5emlhjVUR_sIYuHk) et/ou [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb) et/ou autre(s) |   
 |Automne 2018 		| [présentation](https://github.com/LaraVidoni/StatePattern/blob/master/statePattern.pdf) et [QCM](https://marvelapp.com/ab005ge) |  
 |Automne 2017		| [présentation](https://github.com/Skyzau/PatternState/blob/master/Design%20Pattern%20State.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10542/design-pattern-state/introduction) | 
 
 
 | Strategy			|  Documentation |  
-| :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](https://www.swisstransfer.com/d/848af52d-716c-455a-8ec6-dff70cc19c4c?fbclid=IwAR2UXohwji1W2h7_K6GmJpFv6k3mBG4bxLjdw_4IBzU5emlhjVUR_sIYuHk) et/ou [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb) et/ou autre(s) |    
+| :---				|  :---: 		 |     
 |Automne 2018 		| [présentation](https://github.com/PaterneBaptiste/Pr-sentation-Pattern-Startegy/blob/master/Pr%C3%A9sentation%20Pattern%20Strategy.pdf) et [QCM](https://tech.io/playgrounds/cc15e6fba3afd878558c8ae62b2e88e133473/qcm-pattern-strategy) |  
 |Automne 2017		| [présentation](https://github.com/Lhudram/DesignPattern_Strategy/blob/master/PRESENTATION_STRATEGY_PATTERN.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10741/design-pattern-strategy/presentation) | 
 
@@ -115,8 +116,7 @@
 | Architecture hexagonale	|  Documentation |  
 | :---						|  :---: 		 |   
 |Automne 2019 				| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
-|Automne 2018 				|
-- Architecture hexagonale : | [présentation](https://prezi.com/view/1C7GzdWDAP2mdeUn8ddA/ et [QCM](https://tech.io/playgrounds/790c35ae790d0cf8e652855d1bd6364267283/quizz-architecture-hexagonale) |
+|Automne 2018 				|[présentation](https://prezi.com/view/1C7GzdWDAP2mdeUn8ddA) et [QCM](https://tech.io/playgrounds/790c35ae790d0cf8e652855d1bd6364267283/quizz-architecture-hexagonale) |  
 
 
 | CQRS et Event Sourcing	|  Documentation |  
@@ -135,8 +135,8 @@
 
 | Null pour les nuls		|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2019 				| [présentation](https://github.com/MajinEro/NULL-OBJECT/blob/master/NULL%20OBJECT.pdf) et/ou [QCM](https://forms.gle/zKimHRsBbfMdMxDx9) |    
-|Automne 2018 				| [présentation Null Object Pattern](https://drive.google.com/open?id=1jIOyLQusm5sIqv9FquGsZ0AzAjSb2JDLVVOEFq8-gXM) et [QCM ](https://tech.io/playgrounds/857eda8eb0772f747464f82dd1fe9c8571473/qcm-pattern-null-object) - [présentation traiter null en Java](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM 2](https://tech.io/playgrounds/3b5fb671f19cbd273817023e44e5428681473/qcm-traiter-le-null-en-java)
+|Automne 2019 				| [présentation](https://github.com/MajinEro/NULL-OBJECT/blob/master/NULL%20OBJECT.pdf) et [QCM](https://forms.gle/zKimHRsBbfMdMxDx9) |    
+|Automne 2018 				| [présentation](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM](https://tech.io/playgrounds/3b5fb671f19cbd273817023e44e5428681473/qcm-traiter-le-null-en-java) et [QCM Null Object Pattern](https://tech.io/playgrounds/857eda8eb0772f747464f82dd1fe9c8571473/qcm-pattern-null-object)
 
 
 
