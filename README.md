@@ -25,22 +25,25 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 [Mise en place de bonnes pratiques de développement autour du refactoring du Kata Tennis](TD/M3105_BonnesPratiques_KataTennis.pdf) 
 
 - TD n° 2 (inspiration  **[Kata Racing Car](https://github.com/emilybache/Racing-Car-Katas)**) :  
-[Ecrire du code SOLID ](TD/M3105_tirePressureMonitoringSystem_SOLID.pdf)  
-[Améliorer la lisibilité des tests (Builder, Factory) ](TD/M3105_tirePressureMonitoringSystem_LisibiliteTest.pdf)
+--> [Ecrire du code SOLID ](TD/M3105_tirePressureMonitoringSystem_SOLID.pdf)  
+--> [Améliorer la lisibilité des tests (Builder, Factory) ](TD/M3105_tirePressureMonitoringSystem_LisibiliteTest.pdf)  
 
 - TD n° 3 (inspiration  **[Kata Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata)**) :  
 [Kata Parrot (guidé) ](TD/M3105_SOLID_Polymorphism_KataParrot.pdf) 
 
 - TD n° 4 (inspiration  **[Kata Kebab](https://github.com/malk/the-kebab-kata)**) :  
+--> [Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab.pdf) (Nouvelle Formule)  
+--> Anciennement, les énoncés utilisés étaient :  
 [Kata Kebab à notre sauce : une première implémentation du problème](TD/M3105_Kebab_Presentation.pdf)   
 [Kata Kebab à notre sauce : décorons les kebabs !](TD/M3105_Kebab_Decorateur.pdf)  
 [Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab_Visiteur.pdf)
 
 - TD n° 5 (inspiration  **[What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)**) :  
-[Une SOLIDe revue de code](TD/M3105_SOLID_Revue.pdf)  
-A lire également : [Code Smells: Too Many Problems](https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems/)
+--> [Une SOLIDe revue de code](TD/M3105_SOLID_Revue.pdf)  
+--> [Une autre SOLIDe revue de code](TD/M3105_SOLID_Revue_Autre.pdf)   
+--> A lire également : [Code Smells: Too Many Problems](https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems/)  
 
-- ... *module en cours* ...
+
 
 
 *Tous vos TD doivent être versionnés !*
