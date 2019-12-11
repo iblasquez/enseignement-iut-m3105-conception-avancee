@@ -83,7 +83,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | State				|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](https://www.swisstransfer.com/d/848af52d-716c-455a-8ec6-dff70cc19c4c?fbclid=IwAR2UXohwji1W2h7_K6GmJpFv6k3mBG4bxLjdw_4IBzU5emlhjVUR_sIYuHk) et/ou [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb) et/ou autre(s) |   
+|Automne 2019 		| [présentation](https://youtu.be/SRMGw73eYrE) et/ou [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb) et/ou autre(s) |   
 |Automne 2018 		| [présentation](https://github.com/LaraVidoni/StatePattern/blob/master/statePattern.pdf) et [QCM](https://marvelapp.com/ab005ge) |  
 |Automne 2017		| [présentation](https://github.com/Skyzau/PatternState/blob/master/Design%20Pattern%20State.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10542/design-pattern-state/introduction) | 
 
