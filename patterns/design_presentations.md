@@ -115,7 +115,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Architecture hexagonale	|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2019 				| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019 				| [présentation](https://github.com/ruizhengxu/architectureHexa/blob/master/Pre%CC%81sentation%20Archi%20Hexa.pdf) et [QCM](https://www.askabox.fr/repondre.php?s=258682&r=SPYw8KXPxheA) |    
 |Automne 2018 				|[présentation](https://prezi.com/view/1C7GzdWDAP2mdeUn8ddA) et [QCM](https://tech.io/playgrounds/790c35ae790d0cf8e652855d1bd6364267283/quizz-architecture-hexagonale) |  
 
 
