@@ -31,17 +31,24 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 - TD n° 3 (inspiration  **[Kata Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata)**) :  
 [Kata Parrot (guidé) ](TD/M3105_SOLID_Polymorphism_KataParrot.pdf) 
 
-- TD n° 4 (inspiration  **[Kata Kebab](https://github.com/malk/the-kebab-kata)**) :  
+- TD n° 4 (inspiration  **[Kata Kebab](https://github.com/malk/the-kebab-kata)** & pattern Visiteur) :  
 --> [Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab.pdf) (Nouvelle Formule)  
 --> Anciennement, les énoncés utilisés étaient :  
 [Kata Kebab à notre sauce : une première implémentation du problème](TD/M3105_Kebab_Presentation.pdf)   
 [Kata Kebab à notre sauce : décorons les kebabs !](TD/M3105_Kebab_Decorateur.pdf)  
 [Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab_Visiteur.pdf)
 
-- TD n° 5 (inspiration  **[What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)**) :  
+
+- TD n° 5 (pattern Chaine de responsabilité : CoR) :   
+--> [A la découverte du pattern Chaîne de Responsabilité](TD/M3105_Pattern_ChaineDeResponsabilite.pdf)  
+--> [Retour vers le Fizz Buzz ! Un Fizz Buzz SOLIDe qui (en)chaîne des responsabilités](TD/M3105_FizzBuzz_CoR.pdf) 
+
+- TD n° 6 (inspiration  **[What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview)**) :  
 --> [Une SOLIDe revue de code](TD/M3105_SOLID_Revue.pdf)  
 --> [Une autre SOLIDe revue de code](TD/M3105_SOLID_Revue_Autre.pdf)   
 --> A lire également : [Code Smells: Too Many Problems](https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems/)  
+
+
 
 
 
