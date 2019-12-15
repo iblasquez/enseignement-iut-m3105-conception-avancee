@@ -105,7 +105,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Pattern MVC et ses amis	|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2019 				| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2019 				| [présentation + QCM](https://github.com/FredericCanaud/MVCEtSesAmis/blob/master/MVC-et-ses-amis.pdf) |    
 |Automne 2018 				| [présentation](https://github.com/leger50/DesignPattern_MVC/blob/master/presentation/PatternMVC.pdf) et [QCM](https://qcm-mvc.netlify.com/) |
 
 
