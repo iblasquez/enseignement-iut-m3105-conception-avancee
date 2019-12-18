@@ -4,27 +4,27 @@ public class FizzBuzz {
 
 	public String donnerLaReponsePour(Integer nombre) {
 
-		if (isFizzBuzz(nombre))
+		if (estFizzBuzz(nombre))
 			return "fizzbuzz";
 
-		if (isBuzz(nombre))
+		if (estBuzz(nombre))
 			return "buzz";
 
-		if (isFizz(nombre))
+		if (estFizz(nombre))
 			return "fizz";
 
 		return String.valueOf(nombre);
 	}
 
-	private boolean isFizzBuzz(Integer nombre) {
+	private boolean estFizzBuzz(Integer nombre) {
 		return 0 == nombre % (3 * 5);
 	}
 
-	private boolean isBuzz(Integer nombre) {
+	private boolean estBuzz(Integer nombre) {
 		return 0 == nombre % 5;
 	}
 
-	private boolean isFizz(Integer nombre) {
+	private boolean estFizz(Integer nombre) {
 		return 0 == nombre % 3;
 	}
 

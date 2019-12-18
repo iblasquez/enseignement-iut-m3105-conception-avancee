@@ -31,7 +31,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Adapter 			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](https://github.com/MaximeBerduck/PatternAdapter/blob/master/Desktop/Pattern.pdf) et/ou [QCM](https://docs.google.com/forms/d/e/1FAIpQLSe_EktJnTzSCuycfb1iupp4RVBhI3E_bRSpOGpjZmN2MBBJPg/viewform)
+|Automne 2019 		| [présentation](https://github.com/MaximeBerduck/PatternAdapter/blob/master/Desktop/Pattern.pdf) et [QCM](https://docs.google.com/forms/d/e/1FAIpQLSe_EktJnTzSCuycfb1iupp4RVBhI3E_bRSpOGpjZmN2MBBJPg/viewform)|  
 |Automne 2018 		| [présentation](https://github.com/lperruchaud/Design_Pattern_Adapter) et [QCM](https://tech.io/playgrounds/f0b0a1a0fe3fdba4f2de4a65e8f1f09684283/java-maven-project) |  
 |Automne 2017		| [présentation](https://github.com/Aliths/DesignPaternAdapter/blob/master/Design_Pattern_Adapter.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/7eedf762ec280a51d10f93111bd5214974601/design-pattern-adapter/le-cour) | 
 
@@ -52,8 +52,8 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Facade			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](https://github.com/GBrehier/PatternFacade/blob/master/Pr%C3%A9sentation_pattern_Facade.pdf) et [QCM](https://urlz.fr/bjnr)   
-|Automne 2018 		| [présentation](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/Presentation.pdf) et [QCM1](http://slido.com#FACADE), [QCM2](http://slido.com#FACADE2) et [LiveCode](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/LiveCode.mp4) et [ScenarioTheatre](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/PieceTheatre.pdf) et [Rap](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/Rap_game.m4a)
+|Automne 2019 		| [présentation](https://github.com/GBrehier/PatternFacade/blob/master/Pr%C3%A9sentation_pattern_Facade.pdf) et [QCM](https://urlz.fr/bjnr)|     
+|Automne 2018 		| [présentation](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/Presentation.pdf) et [QCM1](http://slido.com#FACADE), [QCM2](http://slido.com#FACADE2) et [LiveCode](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/LiveCode.mp4) et [ScenarioTheatre](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/PieceTheatre.pdf) et [Rap](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/Rap_game.m4a)|  
 
 
 
@@ -83,7 +83,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | State				|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2019 		| [présentation](https://youtu.be/SRMGw73eYrE) et/ou [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb) et/ou autre(s) |   
+|Automne 2019 		| [vidéo](https://youtu.be/SRMGw73eYrE) et [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb)|   
 |Automne 2018 		| [présentation](https://github.com/LaraVidoni/StatePattern/blob/master/statePattern.pdf) et [QCM](https://marvelapp.com/ab005ge) |  
 |Automne 2017		| [présentation](https://github.com/Skyzau/PatternState/blob/master/Design%20Pattern%20State.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10542/design-pattern-state/introduction) | 
 
@@ -105,7 +105,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Pattern MVC et ses amis	|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2019 				| [présentation + QCM](https://github.com/FredericCanaud/MVCEtSesAmis/blob/master/MVC-et-ses-amis.pdf) |    
+|Automne 2019 				| [présentation et QCM](https://github.com/FredericCanaud/MVCEtSesAmis/blob/master/MVC-et-ses-amis.pdf) |    
 |Automne 2018 				| [présentation](https://github.com/leger50/DesignPattern_MVC/blob/master/presentation/PatternMVC.pdf) et [QCM](https://qcm-mvc.netlify.com/) |
 
 
@@ -120,8 +120,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 
 | CQRS et Event Sourcing	|  Documentation |  
-| :---						|  :---: 		 |   
-|Automne 2019 				| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+| :---						|  :---: 		 |     
 |Automne 2018 				| [présentation](https://github.com/thiagaradja2/Patter-CQRS-Event-Sourcing/blob/master/CQRS%20%26%20EventSourcing.pdf) et [QCM](https://goo.gl/forms/XhaxCCssPc6q4Kjm1) |
 
 
@@ -136,7 +135,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 | Null pour les nuls		|  Documentation |  
 | :---						|  :---: 		 |   
 |Automne 2019 				| [présentation](https://github.com/MajinEro/NULL-OBJECT/blob/master/NULL%20OBJECT.pdf) et [QCM](https://forms.gle/zKimHRsBbfMdMxDx9) |    
-|Automne 2018 				| [présentation](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM](https://tech.io/playgrounds/3b5fb671f19cbd273817023e44e5428681473/qcm-traiter-le-null-en-java) et [QCM Null Object Pattern](https://tech.io/playgrounds/857eda8eb0772f747464f82dd1fe9c8571473/qcm-pattern-null-object)
+|Automne 2018 				| [présentation](https://drive.google.com/open?id=1fwzIDtEVaLuJZTHV6Ksfz9pL1s1ilMYPTR2pgBbdtcU) et [QCM](https://tech.io/playgrounds/3b5fb671f19cbd273817023e44e5428681473/qcm-traiter-le-null-en-java) et [QCM Null Object Pattern](https://tech.io/playgrounds/857eda8eb0772f747464f82dd1fe9c8571473/qcm-pattern-null-object)|  
 
 
 
