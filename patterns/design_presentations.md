@@ -14,6 +14,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Abstract Factory 	|  Documentation |  
 | :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |        
 |Automne 2019 		| [présentation](https://github.com/dorianabraham/designPatternFabrique/blob/master/Les%20design%20patterns%20Fabrique%20et%20Fabrique%20abstraite.pdf) |    
 |Automne 2018 		| [tutoriel tech.io](https://tech.io/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) |   
 |Automne 2017		| [présentation](https://github.com/EliseJoffre/AbstractFactory/blob/master/Abstract_Factory.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/f62a10122a2a86e3a0addaf9777db3610789/presentation_design_pattern_abstract_factory/pattern-abstract-factory) |
@@ -21,6 +22,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Builder 			|  Documentation |  
 | :---				|  :---: 		 |   
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
 |Automne 2019 		| [présentation](https://github.com/tlimbert/builder/blob/master/Builder.pdf) et [QCM](https://urlz.fr/b8rU) |    
 |Automne 2018 		| [présentation](https://github.com/LeoLacoste/Diapo-Builder-Pattern/blob/master/Builder%20Pattern.pdf) et [QCM](https://tech.io/playgrounds/a7fa8d8a2ba3477faf2165f1db738db071363/quizz/introduction) |  
 |Automne 2017		| [présentation](https://github.com/jubidatiloki/playground-kNAwesXw/blob/master/BUILDER.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/b63d9576f847336efb8ae81ceddc2b915017/pattern-builder/introduction) |  
@@ -30,28 +32,32 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 
 | Adapter 			|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 		| [présentation](https://github.com/MaximeBerduck/PatternAdapter/blob/master/Desktop/Pattern.pdf) et [QCM](https://docs.google.com/forms/d/e/1FAIpQLSe_EktJnTzSCuycfb1iupp4RVBhI3E_bRSpOGpjZmN2MBBJPg/viewform)|  
 |Automne 2018 		| [présentation](https://github.com/lperruchaud/Design_Pattern_Adapter) et [QCM](https://tech.io/playgrounds/f0b0a1a0fe3fdba4f2de4a65e8f1f09684283/java-maven-project) |  
 |Automne 2017		| [présentation](https://github.com/Aliths/DesignPaternAdapter/blob/master/Design_Pattern_Adapter.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/7eedf762ec280a51d10f93111bd5214974601/design-pattern-adapter/le-cour) | 
 
 
 | Composite			|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 		| [présentation](https://github.com/Jeanjon/expose/blob/master/Expose_composite.pdf) |    
 |Automne 2018 		| [présentation](https://github.com/ThibaultMagy/PatternComposite) et [QCM1](http://www.strawpoll.me/16923727), [QCM2](http://www.strawpoll.me/16923749), [QCM3](http://www.strawpoll.me/16923763) |    
 |Automne 2017		| [présentation](https://github.com/GregWss/Design-Pattern-Composite/blob/master/PatternComposite.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10154/design-pattern-composite/presentation) | 
 
 
 | Decorator			|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019         | [présentation](https://github.com/FaresCherif/designPatternDecorator/blob/master/DesignPatternDecoratorDiapo.pdf) et [QCM](https://www.sli.do/) |    
 |Automne 2018 		| [présentation](https://github.com/Minemega19/DesignPaternDecorator) et [QCM1](http://www.strawpoll.me/16827808), [QCM2](http://www.strawpoll.me/16827813), [QCM3](http://www.strawpoll.me/16827815), [QCM4](http://www.strawpoll.me/16827819), [QCM5](http://www.strawpoll.me/16923769) |  
 |Automne 2017		| [présentation](https://github.com/marcmlc/DesignPattern-Decorator/blob/master/DiapoDecoratorPDF.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/8396/simple-java-template/presentation) | 
 
 
 | Facade			|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 		| [présentation](https://github.com/GBrehier/PatternFacade/blob/master/Pr%C3%A9sentation_pattern_Facade.pdf) et [QCM](https://urlz.fr/bjnr)|     
 |Automne 2018 		| [présentation](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/Presentation.pdf) et [QCM1](http://slido.com#FACADE), [QCM2](http://slido.com#FACADE2) et [LiveCode](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/LiveCode.mp4) et [ScenarioTheatre](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/PieceTheatre.pdf) et [Rap](https://github.com/arnaudsaulou/DesignPatternFacade/blob/master/Rap_game.m4a)|  
 
@@ -68,21 +74,24 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 
 | Command			|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019		| [présentation](https://github.com/MathisBremont/PatternCommand/blob/master/Diapo%20PATTERN%20COMMAND%20(1).pdf) et [QCM](https://www.dragnsurvey.com/survey/r/7d84e4f?fbclid=IwAR0fEma_0X3SYhkyWuw23mh7Lvf_y8lIeRWxzYPpVJ_Uq3HxXoQiTAU8EfY) |    
 |Automne 2018 		|  [présentation](https://github.com/QLenoir/Command-Pattern-Git/blob/master/pattern_command.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/36502/design-pattern-command/presentation) et [QCM](https://tech.io/playgrounds/36502/design-pattern-command/le-quizz) |  
 |Automne 2017		| [présentation](https://github.com/leger50/DesignPattern_Command/blob/master/presentation_pattern_command_m3105.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10716/design-pattern-command/presentation) | 
 
 
 | Observer			|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 		| [présentation](https://github.com/JeffAnnan/Design-Pattern-Observer-2019-.git) et [QCM](https://urlz.fr/bmui) |    
 |Automne 2018 		|  [présentation](https://github.com/Braxwell/Observer_Info_2A_IUT/blob/master/OBSERVER_INFO_2A_IUT.pdf) et [QCM](https://tech.io/playgrounds/38556/qcm---patron-de-conception-observateur) |  
 |Automne 2017		| [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](https://tech.io/playgrounds/10426/design-pattern-observer/introduction) | 
 
 
 | State				|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 		| [vidéo](https://youtu.be/SRMGw73eYrE) et [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb)|   
 |Automne 2018 		| [présentation](https://github.com/LaraVidoni/StatePattern/blob/master/statePattern.pdf) et [QCM](https://marvelapp.com/ab005ge) |  
 |Automne 2017		| [présentation](https://github.com/Skyzau/PatternState/blob/master/Design%20Pattern%20State.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10542/design-pattern-state/introduction) | 
@@ -95,7 +104,8 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 
 |Visitor				|  Documentation |  
-| :---				|  :---: 		 |   
+| :---				|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 		| [présentation](https://github.com/Dylage/M3105---DP-Visiteur/blob/master/Support%20pr%C3%A9sentation%20M3105%20-%20Visiteur.pdf)  et [QCM](https://tech.io/playgrounds/51758/qcm---patron-de-conception-viteu) |    
 |Automne 2018 		|  [présentation](https://github.com/DepierreQuentin/Pattern-Vistor/blob/master/Design%20Pattern%20Visitor.pdf) et [QCM](https://tech.io/playgrounds/36080/design-pattern-visitor)|  
 |Automne 2017		| [présentation](https://github.com/KhiOui/Design-Pattern-Visitor/blob/master/Visitor%20pattern.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/8339/design-pattern-visitor/introduction) |
@@ -127,7 +137,8 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 ## Autres
 
 | Value Object - Entity -  Agrégat	|  Documentation |  
-| :---						|  :---: 		 |   
+| :---						|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 				| [présentation](https://github.com/BenoitGui/DDDPowerPoint/blob/master/DDD.pdf) et  [QCM](https://tech.io/playgrounds/51956/quizz-ddd) et [code](https://github.com/BenoitGui/DDDPres2) |    
 |Automne 2018 				| [présentation sur Value Object vs Entity](https://drive.google.com/file/d/1vNGobY0ZHgoeapSe3h2c4ESuE35NJL91/view?usp=sharing) et [QCM](https://tech.io/playgrounds/36536/quiz-value-object-entity) |
 
@@ -141,7 +152,8 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
-| :---											|  :---: 		 |   
+| :---											|  :---: 		 |  
+|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
 |Automne 2019 									| [présentation](lien_vers_votre_travail) et [QCM](https://www.askabox.fr/repondre.php?s=256774&r=SPmW795ZvvbV)  | 
 
 
