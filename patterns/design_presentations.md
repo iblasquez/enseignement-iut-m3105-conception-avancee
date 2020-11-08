@@ -49,7 +49,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Decorator			|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2020 		| [présentation](https://github.com/Anthony-AUDOIN/designPatternDecorator/blob/main/DesignPatternDecoratorDiapo.pdf) et [QCM](https://forms.gle/pPUsbBqEMXqpqTAq7) et/ou autre(s) |       
+|Automne 2020 		| [présentation](https://github.com/Anthony-AUDOIN/designPatternDecorator/blob/main/DesignPatternDecoratorDiapo.pdf) et [QCM](https://forms.gle/pPUsbBqEMXqpqTAq7) |       
 |Automne 2019         | [présentation](https://github.com/FaresCherif/designPatternDecorator/blob/master/DesignPatternDecoratorDiapo.pdf) et [QCM](https://www.sli.do/) |    
 |Automne 2018 		| [présentation](https://github.com/Minemega19/DesignPaternDecorator) et [QCM1](http://www.strawpoll.me/16827808), [QCM2](http://www.strawpoll.me/16827813), [QCM3](http://www.strawpoll.me/16827815), [QCM4](http://www.strawpoll.me/16827819), [QCM5](http://www.strawpoll.me/16923769) |  
 |Automne 2017		| [présentation](https://github.com/marcmlc/DesignPattern-Decorator/blob/master/DiapoDecoratorPDF.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/8396/simple-java-template/presentation) | 
