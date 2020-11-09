@@ -105,7 +105,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 |Visitor				|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
+|Automne 2020 		| [présentation](https://github.com/Benjamin-Pelaudeix/Visitor-Pattern/blob/master/Visitor_Pattern_2020_AN_DROUAL_MARTY_PELAUDEIX.pptx) et [QCM](https://tech.io/playgrounds/55804/qcm---patron-de-conception-visiteur)       
 |Automne 2019 		| [présentation](https://github.com/Dylage/M3105---DP-Visiteur/blob/master/Support%20pr%C3%A9sentation%20M3105%20-%20Visiteur.pdf)  et [QCM](https://tech.io/playgrounds/51758/qcm---patron-de-conception-viteu) |    
 |Automne 2018 		|  [présentation](https://github.com/DepierreQuentin/Pattern-Vistor/blob/master/Design%20Pattern%20Visitor.pdf) et [QCM](https://tech.io/playgrounds/36080/design-pattern-visitor)|  
 |Automne 2017		| [présentation](https://github.com/KhiOui/Design-Pattern-Visitor/blob/master/Visitor%20pattern.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/8339/design-pattern-visitor/introduction) |
