@@ -14,10 +14,11 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Abstract Factory 	|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |        
+|Automne 2020 		| [présentation](https://github.com/HyroHyKen/Design-Pattern-Factory-Abstract-Factory/blob/main/Design%20Pattern%20_%20Factory%20_%20Abstract%20Factory.pdf) |        
 |Automne 2019 		| [présentation](https://github.com/dorianabraham/designPatternFabrique/blob/master/Les%20design%20patterns%20Fabrique%20et%20Fabrique%20abstraite.pdf) |    
 |Automne 2018 		| [tutoriel tech.io](https://tech.io/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) |   
 |Automne 2017		| [présentation](https://github.com/EliseJoffre/AbstractFactory/blob/master/Abstract_Factory.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/f62a10122a2a86e3a0addaf9777db3610789/presentation_design_pattern_abstract_factory/pattern-abstract-factory) |
+
 
 
 | Builder 			|  Documentation |  
