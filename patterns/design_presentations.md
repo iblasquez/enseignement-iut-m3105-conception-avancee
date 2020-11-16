@@ -22,7 +22,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Builder 			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |    
+|Automne 2020 		| [présentation](https://docs.google.com/presentation/d/19YkgvPRhbnUVCXAWOXmVCVUyVgJ8Vj841cPC_u1_SD4/edit?usp=sharing) et [QCM](https://forms.gle/oFDYFAh5Ha5W2tY18)|    
 |Automne 2019 		| [présentation](https://github.com/tlimbert/builder/blob/master/Builder.pdf) et [QCM](https://urlz.fr/b8rU) |    
 |Automne 2018 		| [présentation](https://github.com/LeoLacoste/Diapo-Builder-Pattern/blob/master/Builder%20Pattern.pdf) et [QCM](https://tech.io/playgrounds/a7fa8d8a2ba3477faf2165f1db738db071363/quizz/introduction) |  
 |Automne 2017		| [présentation](https://github.com/jubidatiloki/playground-kNAwesXw/blob/master/BUILDER.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/b63d9576f847336efb8ae81ceddc2b915017/pattern-builder/introduction) |  
