@@ -155,7 +155,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---											|  :---: 		 |  
-|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
+|Automne 2020 		| [présentation](https://git.unilim.fr/gauthier78/immuabilite/raw/master/Immuabilite.pdf) et [QCM](https://forms.gle/SVCqCVfmbpb6kxYU9) |       
 |Automne 2019 									| [présentation](lien_vers_votre_travail) et [QCM](https://www.askabox.fr/repondre.php?s=256774&r=SPmW795ZvvbV)  | 
 
 
