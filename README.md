@@ -32,11 +32,13 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 [Kata Parrot (guidé) ](TD/M3105_SOLID_Polymorphism_KataParrot.pdf) 
 
 - TD n° 4 (inspiration  **[Kata Kebab](https://github.com/malk/the-kebab-kata)** & pattern Visiteur) :  
---> [Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab.pdf) (Nouvelle Formule)  
---> Anciennement, les énoncés utilisés étaient :  
+[Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab.pdf)    
+<!-- 
+ Anciennement, les énoncés utilisés étaient :  
 [Kata Kebab à notre sauce : une première implémentation du problème](TD/M3105_Kebab_Presentation.pdf)   
 [Kata Kebab à notre sauce : décorons les kebabs !](TD/M3105_Kebab_Decorateur.pdf)  
-[Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab_Visiteur.pdf)
+[Kata Kebab à notre sauce : visitons les kébabs !](TD/M3105_Kebab_Visiteur.pdf) 
+-->
 
 
 - TD n° 5 (pattern Chaine de responsabilité : CoR) :   
