@@ -76,7 +76,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Command			|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
+|Automne 2020 		| [Vidéo](https://youtu.be/z6NOc4TXZDo) |       
 |Automne 2019		| [présentation](https://github.com/MathisBremont/PatternCommand/blob/master/Diapo%20PATTERN%20COMMAND%20(1).pdf) et [QCM](https://www.dragnsurvey.com/survey/r/7d84e4f?fbclid=IwAR0fEma_0X3SYhkyWuw23mh7Lvf_y8lIeRWxzYPpVJ_Uq3HxXoQiTAU8EfY) |    
 |Automne 2018 		|  [présentation](https://github.com/QLenoir/Command-Pattern-Git/blob/master/pattern_command.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/36502/design-pattern-command/presentation) et [QCM](https://tech.io/playgrounds/36502/design-pattern-command/le-quizz) |  
 |Automne 2017		| [présentation](https://github.com/leger50/DesignPattern_Command/blob/master/presentation_pattern_command_m3105.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10716/design-pattern-command/presentation) | 
