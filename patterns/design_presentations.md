@@ -92,7 +92,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | State				|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
+|Automne 2020 		| [présentation](https://github.com/lrenon/State-VS-Strategy-Patterns/blob/main/state_vs_strategy_renon_frediani_depellegrin_nguyenvangiau.pdf) et [QCM](https://docs.google.com/forms/d/1sLTqHXEIWUhYofO-8y4hwHoTsWS1sFJO2gwpU8LvnQ0/viewform?edit_requested=true) |       
 |Automne 2019 		| [vidéo](https://youtu.be/SRMGw73eYrE) et [QCM](https://www.askabox.fr/repondre.php?s=257895&r=SPD79PAwwDtb)|   
 |Automne 2018 		| [présentation](https://github.com/LaraVidoni/StatePattern/blob/master/statePattern.pdf) et [QCM](https://marvelapp.com/ab005ge) |  
 |Automne 2017		| [présentation](https://github.com/Skyzau/PatternState/blob/master/Design%20Pattern%20State.pdf) et [tutoriel tech.io](https://tech.io/playgrounds/10542/design-pattern-state/introduction) | 
