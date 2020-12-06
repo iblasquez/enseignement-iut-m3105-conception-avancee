@@ -51,10 +51,6 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 --> A lire également : [Code Smells: Too Many Problems](https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems/)  
 
 
-
-
-
-
 *Tous vos TD doivent être versionnés !*
 
 ## Enoncés de TP
@@ -65,7 +61,9 @@ Conception et Programmation objet avancées (module M3105) : bonnes pratiques, d
 - TP n°2 (inspiration  **[Kata Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)**) :  
 [Kata Gilded Rose](TD/M3105_GildedRose.pdf) 
 
-- TP n°3 (inspiration  **[Kata Trivia](https://github.com/jbrains/trivia)**) :  
+- TP n°3 : [Kata Mars Rover](TD/M3105_MarsRover.pdf)  
+
+- Autre TP (inspiration  **[Kata Trivia](https://github.com/jbrains/trivia)**) :  
 [Qualité & harnais de tests sur le kata Trivia : SonarQube, Golden Master, Approval Testing](TD/M3105_Trivia.pdf) 
 
 *Tous vos TP doivent être versionnés !*
