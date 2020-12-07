@@ -13,7 +13,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 ### Patrons de création (GoF)
 
 | Abstract Factory 	|  Documentation |  
-| :---				|  :---: 		 |  
+| :---				|  :---: 	 	 |  
 |Automne 2020 		| [présentation](https://github.com/HyroHyKen/Design-Pattern-Factory-Abstract-Factory/blob/main/Design%20Pattern%20_%20Factory%20_%20Abstract%20Factory.pdf) |        
 |Automne 2019 		| [présentation](https://github.com/dorianabraham/designPatternFabrique/blob/master/Les%20design%20patterns%20Fabrique%20et%20Fabrique%20abstraite.pdf) |    
 |Automne 2018 		| [tutoriel tech.io](https://tech.io/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) |   
