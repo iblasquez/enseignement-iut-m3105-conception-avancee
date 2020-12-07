@@ -83,7 +83,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 
 | Observer			|  Documentation |  
-| :---				|  :---: 		 |  
+| :---				|  :---: 		|  
 |Automne 2020 		| [présentation](https://github.com/Squalord/DesignPatternObserver/blob/main/Pattern%20Observer.pdf) et [QCM](https://forms.gle/VP9jCGAkS7q6bRTp8) |       
 |Automne 2019 		| [présentation](https://github.com/JeffAnnan/Design-Pattern-Observer-2019-.git) et [QCM](https://urlz.fr/bmui) |    
 |Automne 2018 		|  [présentation](https://github.com/Braxwell/Observer_Info_2A_IUT/blob/master/OBSERVER_INFO_2A_IUT.pdf) et [QCM](https://tech.io/playgrounds/38556/qcm---patron-de-conception-observateur) |  
