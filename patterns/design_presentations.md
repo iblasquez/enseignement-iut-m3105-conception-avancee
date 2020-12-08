@@ -13,7 +13,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 ### Patrons de création (GoF)
 
 | Abstract Factory 	|  Documentation |  
-| :---				|  :---: 		 |  
+| :---				|  :---: 	 	 |  
 |Automne 2020 		| [présentation](https://github.com/HyroHyKen/Design-Pattern-Factory-Abstract-Factory/blob/main/Design%20Pattern%20_%20Factory%20_%20Abstract%20Factory.pdf) |        
 |Automne 2019 		| [présentation](https://github.com/dorianabraham/designPatternFabrique/blob/master/Les%20design%20patterns%20Fabrique%20et%20Fabrique%20abstraite.pdf) |    
 |Automne 2018 		| [tutoriel tech.io](https://tech.io/playgrounds/36103/design-pattern-factory-abstract-factory/introduction) |   
@@ -83,8 +83,8 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 
 | Observer			|  Documentation |  
-| :---				|  :---: 		 |  
-|Automne 2020 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |       
+| :---				|  :---: 	 |  
+|Automne 2020 		| [présentation](https://github.com/Squalord/DesignPatternObserver/blob/main/Pattern%20Observer.pdf) et [QCM](https://forms.gle/VP9jCGAkS7q6bRTp8) |       
 |Automne 2019 		| [présentation](https://github.com/JeffAnnan/Design-Pattern-Observer-2019-.git) et [QCM](https://urlz.fr/bmui) |    
 |Automne 2018 		|  [présentation](https://github.com/Braxwell/Observer_Info_2A_IUT/blob/master/OBSERVER_INFO_2A_IUT.pdf) et [QCM](https://tech.io/playgrounds/38556/qcm---patron-de-conception-observateur) |  
 |Automne 2017		| [présentation](ajoutez_votre_pdf_dans_presentations_2107_et_referez_ici_ou_donner_directement_le_lien_si_votre_presentation_est_en_ligne) et [tutoriel tech.io](https://tech.io/playgrounds/10426/design-pattern-observer/introduction) | 
