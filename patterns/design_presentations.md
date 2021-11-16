@@ -43,6 +43,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Composite			|  Documentation |  
 | :---				|  :---: 		 |  
+|Automne 2021 		| [présentation](https://github.com/Sylph33/Composite/blob/master/Composite_2021_Presentation.pdf) et [QCM](https://qruiz.net/quiz-answer.php?code=n9fvjRtZ)
 |Automne 2020 		| [présentation](https://github.com/Sohar-FV/Presentation_Pattern_Composite/blob/main/diaporamaComposite.pdf) et [QCM](https://docs.google.com/forms/d/e/1FAIpQLSfp1qMKbW19WsAhAWJRCjYvaRZaeMZDiU5t6adGHwzpWG-nvA/viewform?usp=sf_link)
 |Automne 2019 		| [présentation](https://github.com/Jeanjon/expose/blob/master/Expose_composite.pdf) |    
 |Automne 2018 		| [présentation](https://github.com/ThibaultMagy/PatternComposite) et [QCM1](http://www.strawpoll.me/16923727), [QCM2](http://www.strawpoll.me/16923749), [QCM3](http://www.strawpoll.me/16923763) |    
