@@ -161,6 +161,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---											|  :---: 		 |  
+|Automne 2021   | [présentation](https://github.com/Jeremod-Dev/Immuable/blob/master/Pr%C3%A9sentation.pdf) et [Tech.io](https://tech.io/playgrounds/59238/design-pattern) et [QCM](https://qruiz.net/quiz-answer.php?code=iSaLkT87)  |
 |Automne 2020 		| [présentation](https://git.unilim.fr/gauthier78/immuabilite/raw/master/Immuabilite.pdf) et [QCM](https://forms.gle/SVCqCVfmbpb6kxYU9) |       
 |Automne 2019 									| [présentation](lien_vers_votre_travail) et [QCM](https://www.askabox.fr/repondre.php?s=256774&r=SPmW795ZvvbV)  | 
 
