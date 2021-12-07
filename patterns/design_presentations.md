@@ -35,6 +35,7 @@ Attention, le contenu des présentations des années précédentes n'est pas tou
 
 | Adapter 			|  Documentation |  
 | :---				|  :---: 		 |  
+|Automne 2021   | [présentation](https://github.com/marcuzzi1/design_pattern_adapter/blob/master/Pr%C3%A9sentation%20pattern%20adapter.pdf) et [Quiz](https://kahoot.it?pin=3852932) |
 |Automne 2020 		| [présentation](https://github.com/mcagnon/designPatternAdapter/blob/main/DesignPatternAdapter.pdf) et/ou [tutoriel tech.io](lien_vers_votre_travail) et/ou [QCM](https://docs.google.com/forms/d/e/1FAIpQLScWtz_k_RQQnOfVkvTV6fkVb8dpze1YJDOl5MydAsPmhc9rFg/viewform) et/ou autre(s) |       
 |Automne 2019 		| [présentation](https://github.com/MaximeBerduck/PatternAdapter/blob/master/Desktop/Pattern.pdf) et [QCM](https://docs.google.com/forms/d/e/1FAIpQLSe_EktJnTzSCuycfb1iupp4RVBhI3E_bRSpOGpjZmN2MBBJPg/viewform)|  
 |Automne 2018 		| [présentation](https://github.com/lperruchaud/Design_Pattern_Adapter) et [QCM](https://tech.io/playgrounds/f0b0a1a0fe3fdba4f2de4a65e8f1f09684283/java-maven-project) |  
